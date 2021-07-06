@@ -31,7 +31,7 @@ O Beauty Salon é uma página institucional no formato One Page, responsiva, par
 
 Para acessar o projeto na web, clique no link abaixo:
 
-https://luccaass.github.io/beautysalon/
+https://beautysalonn.netlify.app/
 
 
 Feito por Lucas Pinheiro :metal:
