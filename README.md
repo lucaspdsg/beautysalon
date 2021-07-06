@@ -34,4 +34,5 @@ Para acessar o projeto na web, clique no link abaixo:
 https://beautysalonn.netlify.app/
 
 
+
 Feito por Lucas Pinheiro :metal:
