@@ -27,5 +27,11 @@ Utilitários
 
 O Beauty Salon é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas.
 
+## Demo
+
+Para acessar o projeto na web, clique no link abaixo:
+
+https://luccaass.github.io/beautysalon/
+
 
 Feito por Lucas Pinheiro :metal:
